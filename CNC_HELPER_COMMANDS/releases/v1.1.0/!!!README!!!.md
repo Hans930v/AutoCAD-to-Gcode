@@ -30,7 +30,7 @@ G19 G3 Y28.7035 Z71.1003 J15.0000 K0.0000 F500
 
 Installation:
 1. Open AutoCAD.
-2. Type `APPLOAD`, click on 'Contents', and add `CNC_HELPER_COMMANDS.lsp`.
+2. Type `APPLOAD`, click on `Contents`, and add `CNC_HELPER_COMMANDS.lsp`.
 3. Run any of the commands above in the command line.
 
 Notes:
@@ -44,3 +44,4 @@ Version: 1.1.0
 Language: AutoLISP  
 Author: Hansoy  
 Goal: Add multi-plane circular interpolation support to AutoCAD G-code generation
+
