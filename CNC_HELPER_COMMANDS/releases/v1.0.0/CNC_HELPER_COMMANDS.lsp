@@ -31,7 +31,7 @@
 )
 
 ;; ------------------------
-;; IDC - copy single point X Y
+;; IDC - copy single point X Y Z
 ;; ------------------------
 (defun c:IDC (/ pt x y z str)
   (setq pt (getpoint "\nPick a point: "))
@@ -52,7 +52,7 @@
 )
 
 ;; ------------------------
-;; G0P - multi-pick rapid moves
+;; G0P - single-pick rapid moves
 ;; ------------------------
 (defun c:G0P (/ pt x y z str)
   (setq pt (getpoint "\nPick a point: "))
