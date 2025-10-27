@@ -31,7 +31,7 @@
 )
 
 ;; ------------------------
-;; IDC - copy single point X Y Z
+;; IDC - copy single point X Y
 ;; ------------------------
 (defun c:IDC (/ pt x y z str)
   (setq pt (getpoint "\nPick a point: "))
@@ -52,7 +52,7 @@
 )
 
 ;; ------------------------
-;; G0P - single-pick rapid moves
+;; G0P - multi-pick rapid moves
 ;; ------------------------
 (defun c:G0P (/ pt x y z str)
   (setq pt (getpoint "\nPick a point: "))
@@ -213,15 +213,11 @@
   )
   (princ)
 )
-(defun c:G2P () (make-g2g3 "G2"))
-(defun c:G3P () (make-g2g3 "G3"))
 
+
+(princ "\nCNC_HELPER_COMMANDS.lsp loaded. Commands: IDC, G0P, G1P, G2R, G3R, G2P, G3P" )
 (princ "\nCNC_HELPER_COMMANDS.lsp ver 1.0.0 loaded. Commands: IDC, G0P, G1P, G2R, G3R, G2P, G3P" )
 (princ "\nCreated by Hansoy | GitHub: github.com/Hans930v")
 (princ "\nLicensed under MIT License.")
 (princ)
-
-(princ
-  "\nCNC_HELPER_COMMANDS.lsp loaded. Commands: IDC, G0P, G1P, G2R, G3R, G2P, G3P"
-)
 (princ)
