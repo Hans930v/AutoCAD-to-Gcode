@@ -214,8 +214,6 @@
   (princ)
 )
 
-
-(princ "\nCNC_HELPER_COMMANDS.lsp loaded. Commands: IDC, G0P, G1P, G2R, G3R, G2P, G3P" )
 (princ "\nCNC_HELPER_COMMANDS.lsp ver 1.0.0 loaded. Commands: IDC, G0P, G1P, G2R, G3R, G2P, G3P" )
 (princ "\nCreated by Hansoy | GitHub: github.com/Hans930v")
 (princ "\nLicensed under MIT License.")
