@@ -221,7 +221,7 @@
   (princ "\n===================================================")
   (princ "\nCommands loaded: IDC, G0P, G1P, G2R, G3R, G2P, G3P ")
   (princ "\n   Created by: VILLAFRANCA | github.com/Hans930v   ")
-  (princ "\nLicense: MIT")
+  (princ "\n                    License: MIT                   ")
   (princ "\n===================================================")
   (princ)
   (graphscr)
