@@ -13,6 +13,6 @@ G3R
 G2P  
 G3P  
 
-# License
+*License*  
 MIT License  
 Created by *Hansoy*
