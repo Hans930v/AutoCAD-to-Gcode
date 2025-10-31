@@ -39,4 +39,3 @@ Language: AutoLISP
 Author: Hansoy  
 Goal: Convert AutoCAD geometry to simple G-code commands
 
-**Full Changelog**: https://github.com/Hans930v/AutoCAD-to-Gcode/commits/1.0.0
