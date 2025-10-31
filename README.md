@@ -23,7 +23,7 @@ I post tutorials and version update demos on YouTube: [**@hansoy69**](https://ww
 ---
 
 ## Installation  
-1. Download the latest **CNC_HELPER_COMMANDS.lsp** from [Releases](https://github.com/Hans930v/AutoCAD-to-Gcode/releases).  
+1. Download the latest `CNC_HELPER_COMMANDS.lsp` from [Releases](https://github.com/Hans930v/AutoCAD-to-Gcode/releases).  
 2. In AutoCAD, type `APPLOAD` and load the `.lsp` file.  
 3. Run any of the listed commands in the AutoCAD command line.  
 
