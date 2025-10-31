@@ -9,7 +9,7 @@ I post tutorials and version update demos on YouTube: [**@hansoy69**](https://ww
 
 ---
 
-##Available Commands  
+## Available Commands  
 | Command | Description |
 |----------|-------------|
 | `IDC` | Copies Coordinates in G-code format |
