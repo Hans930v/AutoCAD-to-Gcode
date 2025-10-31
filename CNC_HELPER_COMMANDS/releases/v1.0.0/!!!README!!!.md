@@ -1,9 +1,6 @@
 AutoCAD to G-Code (v1.0.0)
 --------------------------
-
-Watch the full tutorial on my YouTube Channel:  
-https://www.youtube.com/@hansoy69    
-https://www.youtube.com/watch?v=bIPuGLiqasY&t=504s  
+*[Full Tutorial Video](https://www.youtube.com/watch?v=bIPuGLiqasY&t=504s)* 
 
 Overview:  
 The first release of the AutoCAD G-Code Generator Lisp project.  
@@ -40,6 +37,6 @@ Version Info:
 Version: 1.0.0   
 Language: AutoLISP  
 Author: Hansoy  
-Goal: Convert AutoCAD geometry to simple G-code commands  
+Goal: Convert AutoCAD geometry to simple G-code commands
 
-
+**Full Changelog**: https://github.com/Hans930v/AutoCAD-to-Gcode/commits/1.0.0
