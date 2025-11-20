@@ -30,9 +30,10 @@ I post tutorials and version update demos on YouTube: [**@hansoy69**](https://ww
 ---
 
 ## Latest Version  
-**Current Release:** [v1.1.1](https://github.com/Hans930v/AutoCAD-to-Gcode/releases/tag/1.1.1)  
-- Smart working-plane memory between G2P and G3P commands  
-- Backward compatible with v1.1.0  
+**Current Release:** [v1.3.3](https://github.com/Hans930v/AutoCAD-to-Gcode/releases/tag/1.3.3)  
+-Retains the last selected working plane for G2P/G3P arcs  
+-Compatible with previous versions (from v1.1.1 onwards)  
+-Streamlined multi-point feed and arc commands for faster G-code generation
 
 ---
 
