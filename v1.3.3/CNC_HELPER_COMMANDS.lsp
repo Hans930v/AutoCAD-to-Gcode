@@ -101,7 +101,7 @@
     (setq x (rtos (car pt) 2 4)
           y (rtos (cadr pt) 2 4)
 	  z (rtos (caddr pt) 2 4))
-    (setq out (strcat out "G1 X" x " Y" y " X" Z " F" (rtos feed 2 0) "\n"))
+    (setq out (strcat out "G1 X" x " Y" y " Z" z " F" (rtos feed 2 0) "\n"))
   )
   (if (> (strlen out) 0) out nil)
 )
