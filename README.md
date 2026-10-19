@@ -15,8 +15,6 @@ I post tutorials and version update demos on YouTube: [**@hansoy69**](https://ww
 | `IDC` | Copies Coordinates in G-code format |
 | `G0P` | Rapid move (G00) |
 | `G1P` | Linear move (G01) |
-| `G2R` | Clockwise arc with radius input (G02) |
-| `G3R` | Counterclockwise arc with radius input (G03) |
 | `G2P` | CW arc (G02) with selectable working plane |
 | `G3P` | CCW arc (G03) with selectable working plane |
 
