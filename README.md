@@ -8,7 +8,7 @@ Designed for CNC users who want a lightweight, script-based workflow for generat
 
 ## Tutorials
 
-📺 **[Watch the AutoCAD to G-Code Tutorial Playlist](https://www.youtube.com/watch?v=bIPuGLiqasY&list=PLUozSOLZCUw32PGFnGvz6c2U-34czQW9v)** for step-by-step demonstrations and usage guides.
+**[Watch the AutoCAD to G-Code Tutorial Playlist](https://www.youtube.com/watch?v=bIPuGLiqasY&list=PLUozSOLZCUw32PGFnGvz6c2U-34czQW9v)** for step-by-step demonstrations and usage guides.
 
 I also post tutorials and version update demos on YouTube: [**@hansoy69**](https://www.youtube.com/@hansoy69).
 
